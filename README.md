@@ -31,9 +31,10 @@ The term “artificial intelligence” was coined by John McCarthy in <b>1955</b
 Development of Lisp: John McCarthy developed the Lisp programming language in 1958, which became a fundamental tool for AI research due to its excellent support for symbolic reasoning and recursive functions23.
 </p>
 
+<h3>you can see my Lisp tutorial
 <a href="https://github.com/joaopaulo-souza">
-you can see my Lisp tutorial here
+here
 </a>
-
+</h3>
 
 </body>

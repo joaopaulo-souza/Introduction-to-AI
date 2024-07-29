@@ -1,0 +1,98 @@
+;This is a lisp tutorial
+(print "Hello, world!, this is a simple tutorial of lisp");
+(print "Let's do some arithmetics:")
+(print "5 + 6 = ")
+(write (+ 5 6))
+(print "5 - 6 = ")
+(write (- 5 6))
+(print "5 * 6 = ")
+(write (* 5 6))
+(print "30 / 6 = ")
+(write (/ 30 5))
+
+(terpri); line break
+(print "Let's declare some variables")
+(print "the variable will be 'a'")
+(setq a 5)
+(print " the value of a = ")
+(write a)
+(print "the double of a = ")
+(write (* 2 a))
+
+(terpri)
+(print "Lets see the type of some variables")
+(setq a 10)
+(setq b 34.567)
+(setq c nil)
+(setq d 11.0e+4)
+(setq e 124/2)
+(setq f t)
+(setq g nil)
+
+(print "a is:")
+(print (type-of a))
+(print "b is:")
+(print (type-of b))
+(print "c is:")
+(print (type-of c))
+(print "d is:") 
+(print (type-of d))
+(print "e is:") 
+(print (type-of e))
+(print "f is:") 
+(print (type-of f))
+(print "g is:") 
+(print (type-of g))
+
+
+(terpri)
+(print "Let's do comparations")
+(print "Is 5 > 2 ?")
+(write (> 5 2)) 
+(print "Is 5 < 2 ?")
+(write (< 5 2)) 
+(print "Is 5 == 2 ?")
+(write (= 5 2)) 
+
+(terpri)
+(print "Let's do boolean")
+(setq a t)
+(setq b t)
+(setq c nil)
+(setq d nil)
+
+(terpri)
+(format t "a = ~a, not a = ~a" a (not a))
+
+(terpri)
+(format t "a = ~a, b = ~a, a and b = ~a" a b (and a b))
+(terpri)
+(format t "a = ~a, b = ~a, a and c = ~a" a c (and a c))
+
+(terpri)
+(format t "a = ~a, b = ~a, a or b = ~a" a b (or a b))
+(terpri)
+(format t "a = ~a, b = ~a, a or c = ~a" a c (or a c))
+
+(terpri)
+(print "Let's create a function to calculate de area of a circle, given its radius")
+(defmacro circle-area (radius)
+    (* 3.14159 (* radius radius)))
+(terpri)
+(format t "the area of a circle of radius 4 = ~a" (circle-area 4))
+
+(terpri)
+(print "Let's make an conditional")
+
+(setq a 10)
+
+(terpri)
+(if (> a 5)
+    (format t "a is greater than 5")
+    (format t "a is not greater than 5"))
+
+(terpri)
+(print "Let's make a loop")
+(terpri)
+(loop for i from 1 to 10 do
+  (terpri)(format t "iteration number ~a" i))

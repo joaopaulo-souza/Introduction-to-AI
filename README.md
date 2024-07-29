@@ -5,3 +5,7 @@
 <p>
 The aim of this article is to tell a little of the history of AI, and it's main concepts
 </p>
+
+<p>
+The Turing Test was introduced by Alan Turing in 1950 in his seminal paper "Computing Machinery and Intelligence"1. This test was designed to determine whether a machine could exhibit intelligent behavior indistinguishable from that of a human.
+</p>

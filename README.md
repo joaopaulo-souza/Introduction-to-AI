@@ -1,1 +1,1 @@
-<img src="https://github.com/joaopaulo-souza/Introduction-to-AI/blob/master/Images/robot-egg.jpeg" width="500">
+<img src="https://github.com/joaopaulo-souza/Introduction-to-AI/blob/master/Images/robot-egg.jpeg" width="900">

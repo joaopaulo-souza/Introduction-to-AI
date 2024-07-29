@@ -32,7 +32,7 @@ Development of Lisp: John McCarthy developed the Lisp programming language in 19
 </p>
 
 <h3>you can see my Lisp tutorial
-<a href="https://github.com/joaopaulo-souza">
+<a href="https://github.com/joaopaulo-souza/Introduction-to-AI/tree/master/Lisp">
 here
 </a>
 </h3>

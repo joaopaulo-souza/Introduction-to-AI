@@ -96,4 +96,13 @@ The first AI winter, <b>spanning the 1970s</b>, was characterized by a significa
 
 <h4>Backpropagation </h4>
 In <b>1986</b>, Geoffrey Hinton and his colleagues published groundbreaking papers on backpropagation, a key algorithm for training neural networks that dramatically revived interest in the field of artificial intelligence. Backpropagation, which efficiently adjusts the weights of neural network connections based on the error of predictions, provided a practical and scalable method for training multi-layered networks. This development addressed many of the limitations faced by earlier neural network models, rekindling enthusiasm and paving the way for significant advancements in machine learning.
+
+<img src="https://github.com/joaopaulo-souza/Introduction-to-AI/blob/master/Images/deep-blue.jpeg" width="900">
+
+
+<h4>Deep Blue vs Yuri Kasparov</h4>
+The first time an AI defeated a reigning world chess champion was in 1997 when IBM's Deep Blue supercomputer beat Garry Kasparov. This historic match took place over six games from May 3 to May 11, with Deep Blue winning the match 3.5 to 2.5. Kasparov had previously defeated an earlier version of Deep Blue in 1996, but the 1997 rematch saw significant improvements in the AI's capabilities. This victory marked a major milestone in AI research, demonstrating the potential of advanced computing and algorithms to tackle complex and strategic tasks traditionally dominated by human intelligence.
+
+
+
 </body>

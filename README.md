@@ -104,7 +104,7 @@ In <b>1986</b>, Geoffrey Hinton and his colleagues published groundbreaking pape
 The first time an AI defeated a reigning world chess champion was in <b>1997</b> when IBM's Deep Blue supercomputer beat Garry Kasparov. This historic match took place over six games from May 3 to May 11, with Deep Blue winning the match 3.5 to 2.5. Kasparov had previously defeated an earlier version of Deep Blue in 1996, but the 1997 rematch saw significant improvements in the AI's capabilities. This victory marked a major milestone in AI research, demonstrating the potential of advanced computing and algorithms to tackle complex and strategic tasks traditionally dominated by human intelligence.
 
 
-<img src="https://github.com/joaopaulo-souza/Introduction-to-AI/blob/master/Images/deep-learning.jpeg" width="900">
+<img src="https://github.com/joaopaulo-souza/Introduction-to-AI/blob/master/Images/robot-deep.jpeg" width="900">
 
 <h4>Deep Learning wins image championship</h4>
 The boom of deep learning is generally considered to have started around <b>2012</b>. This pivotal year saw a significant breakthrough when a deep convolutional neural network, developed by Geoffrey Hinton, Alex Krizhevsky, and Ilya Sutskever, won the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) by a substantial margin. Their network, known as AlexNet, dramatically outperformed traditional machine learning techniques in image classification tasks, showcasing the power of deep learning. This success ignited widespread interest and investment in deep learning, leading to rapid advancements and applications across various fields, including computer vision, natural language processing, and beyond.

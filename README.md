@@ -115,5 +115,11 @@ The boom of deep learning is generally considered to have started around <b>2012
 
 DeepMind's AI program, AlphaGo, achieved a historic victory in <b>2016</b> when it defeated Lee Sedol, one of the world's top Go players, in a five-game match. AlphaGo won the series 4-1, demonstrating the advanced capabilities of deep learning and reinforcement learning techniques. This event marked a significant milestone in AI research, as Go is a complex board game with an enormous number of possible moves, making it much more challenging for AI to master compared to other games like chess. The victory of AlphaGo underscored the potential of AI to tackle intricate problems and garnered widespread attention and acclaim.
 
+<h2>AI Basic Concepts </h2>
+<h4>You can take a look at AI basic concepts 
+<a href="https://github.com/joaopaulo-souza/Introduction-to-AI/tree/master/Basic-Concepts">
+Here
+</a>
+</h4>
 
 </body>

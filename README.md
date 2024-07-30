@@ -88,13 +88,13 @@ Limitations: Despite its innovative approach, GPS struggled with real-world prob
 
 <img src="https://github.com/joaopaulo-souza/Introduction-to-AI/blob/master/Images/robot-winter1.jpeg" width="900">
 
-<h4>AI Winter</h4>
+<h4>The AI Winter</h4>
 
 The first AI winter, <b>spanning the 1970s</b>, was characterized by a significant downturn in the enthusiasm and funding for artificial intelligence research. During this period, early AI systems, which had generated considerable excitement and investment, failed to meet the high expectations set by their proponents. The overpromising of capabilities and the technical limitations of early AI approaches led to a growing skepticism. This skepticism was further fueled by critical assessments, such as the Lighthill Report in 1973, which highlighted the lack of practical results from AI research. As a result, many governments and funding agencies reduced their support, leading to a slowdown in AI research and development.
 
 <img src="https://github.com/joaopaulo-souza/Introduction-to-AI/blob/master/Images/Backpropagation.jpeg" width="900">
 
-<h4>Backpropagation </h4>
+<h4>The Backpropagation Algorithm </h4>
 In <b>1986</b>, Geoffrey Hinton and his colleagues published groundbreaking papers on backpropagation, a key algorithm for training neural networks that dramatically revived interest in the field of artificial intelligence. Backpropagation, which efficiently adjusts the weights of neural network connections based on the error of predictions, provided a practical and scalable method for training multi-layered networks. This development addressed many of the limitations faced by earlier neural network models, rekindling enthusiasm and paving the way for significant advancements in machine learning.
 
 <img src="https://github.com/joaopaulo-souza/Introduction-to-AI/blob/master/Images/deep-blue.jpeg" width="900">
@@ -109,10 +109,11 @@ The first time an AI defeated a reigning world chess champion was in <b>1997</b>
 <h4>Deep Learning wins image championship</h4>
 The boom of deep learning is generally considered to have started around <b>2012</b>. This pivotal year saw a significant breakthrough when a deep convolutional neural network, developed by Geoffrey Hinton, Alex Krizhevsky, and Ilya Sutskever, won the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) by a substantial margin. Their network, known as AlexNet, dramatically outperformed traditional machine learning techniques in image classification tasks, showcasing the power of deep learning. This success ignited widespread interest and investment in deep learning, leading to rapid advancements and applications across various fields, including computer vision, natural language processing, and beyond.
 
+<img src="https://github.com/joaopaulo-souza/Introduction-to-AI/blob/master/Images/robot-sedol.jpeg" width="900">
 
+<h4>Google's AlphaGo vs Lee Sedol </h4>
 
-
-
+DeepMind's AI program, AlphaGo, achieved a historic victory in 2016 when it defeated Lee Sedol, one of the world's top Go players, in a five-game match. AlphaGo won the series 4-1, demonstrating the advanced capabilities of deep learning and reinforcement learning techniques. This event marked a significant milestone in AI research, as Go is a complex board game with an enormous number of possible moves, making it much more challenging for AI to master compared to other games like chess. The victory of AlphaGo underscored the potential of AI to tackle intricate problems and garnered widespread attention and acclaim.
 
 
 </body>

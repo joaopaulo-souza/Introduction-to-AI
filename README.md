@@ -72,4 +72,7 @@ Limitations: Despite its innovative approach, GPS struggled with real-world prob
 
 <b>1964</b>: ELIZA, an early natural language processing program, was developed by Joseph Weizenbaum
 
+<b>Late 1970s</b>: The first "AI winter," a period of reduced interest and funding for AI research, began.
+
+
 </body>

@@ -105,7 +105,8 @@ The first time an AI defeated a reigning world chess champion was in <b>1997</b>
 
 
 <img src="https://github.com/joaopaulo-souza/Introduction-to-AI/blob/master/Images/deep-learning.jpeg" width="900">
-<Deep Learning wins image championship>
+
+<h4>Deep Learning wins image championship</h4>
 The boom of deep learning is generally considered to have started around <b>2012</b>. This pivotal year saw a significant breakthrough when a deep convolutional neural network, developed by Geoffrey Hinton, Alex Krizhevsky, and Ilya Sutskever, won the ImageNet Large Scale Visual Recognition Challenge (ILSVRC) by a substantial margin. Their network, known as AlexNet, dramatically outperformed traditional machine learning techniques in image classification tasks, showcasing the power of deep learning. This success ignited widespread interest and investment in deep learning, leading to rapid advancements and applications across various fields, including computer vision, natural language processing, and beyond.
 
 

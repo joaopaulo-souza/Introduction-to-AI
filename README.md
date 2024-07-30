@@ -100,7 +100,7 @@ In <b>1986</b>, Geoffrey Hinton and his colleagues published groundbreaking pape
 <img src="https://github.com/joaopaulo-souza/Introduction-to-AI/blob/master/Images/deep-blue.jpeg" width="900">
 
 
-<h4>Deep Blue vs Yuri Kasparov</h4>
+<h4>Deep Blue vs Garry Kasparov</h4>
 The first time an AI defeated a reigning world chess champion was in <b>1997</b> when IBM's Deep Blue supercomputer beat Garry Kasparov. This historic match took place over six games from May 3 to May 11, with Deep Blue winning the match 3.5 to 2.5. Kasparov had previously defeated an earlier version of Deep Blue in 1996, but the 1997 rematch saw significant improvements in the AI's capabilities. This victory marked a major milestone in AI research, demonstrating the potential of advanced computing and algorithms to tackle complex and strategic tasks traditionally dominated by human intelligence.
 
 

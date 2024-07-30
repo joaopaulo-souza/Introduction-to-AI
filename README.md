@@ -23,6 +23,11 @@ The Turing Test was introduced by Alan Turing in <b>1950</b> in his seminal pape
 <img src="https://github.com/joaopaulo-souza/Introduction-to-AI/blob/master/Images/turing.jpeg" width="250">
 </div>
 
+<h3>The Turing Test</h3>
+<p>
+In its more generalized form, the Turing Test simplifies to involve only two participants: a human evaluator and a machine. The evaluator communicates with the machine (and potentially another human as a control) through text-based communication, typically over a computer. If the evaluator cannot reliably tell the machine apart from the human based on the responses, the machine is said to have passed the Turing Test.
+</p>
+
 </div>
 <p>
 The term “artificial intelligence” was coined by John McCarthy in <b>1955</b>. He introduced it in a proposal for the Dartmouth Conference, which was held in 1956 and is considered the founding event of AI as a field.
@@ -36,5 +41,9 @@ Development of Lisp: John McCarthy developed the Lisp programming language in 19
 here
 </a>
 </h3>
+
+<b>1960s</b>: Research labs were established at universities such as MIT, Stanford, and Carnegie Mellon.
+
+<b>1964</b>: ELIZA, an early natural language processing program, was developed by Joseph Weizenbaum
 
 </body>

@@ -84,7 +84,12 @@ Limitations: Despite its innovative approach, GPS struggled with real-world prob
 
 <b>1964</b>: ELIZA, an early natural language processing program, was developed by Joseph Weizenbaum
 
-<b>Late 1970s</b>: The first "AI winter," a period of reduced interest and funding for AI research, began.
 
+
+<img src="https://github.com/joaopaulo-souza/Introduction-to-AI/blob/master/Images/robot-winter1.jpeg" width="900">
+
+<h4>AI Winter</h4>
+
+The first AI winter, <b>spanning the 1970s</b>, was characterized by a significant downturn in the enthusiasm and funding for artificial intelligence research. During this period, early AI systems, which had generated considerable excitement and investment, failed to meet the high expectations set by their proponents. The overpromising of capabilities and the technical limitations of early AI approaches led to a growing skepticism. This skepticism was further fueled by critical assessments, such as the Lighthill Report in 1973, which highlighted the lack of practical results from AI research. As a result, many governments and funding agencies reduced their support, leading to a slowdown in AI research and development.
 
 </body>

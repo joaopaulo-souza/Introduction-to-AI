@@ -20,7 +20,7 @@ The Turing Test was introduced by Alan Turing in <b>1950</b> in his seminal pape
 </div>
 
 <div class="image">
-<img src="https://github.com/joaopaulo-souza/Introduction-to-AI/blob/master/Images/turing.jpeg" width="250">
+<img src="https://github.com/joaopaulo-souza/Introduction-to-AI/blob/master/Images/turing.jpeg" width="900">
 </div>
 
 <h3>The Turing Test</h3>

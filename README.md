@@ -41,7 +41,7 @@ The Turing Test was introduced by Alan Turing in <b>1950</b> in his seminal pape
 <img src="https://github.com/joaopaulo-souza/Introduction-to-AI/blob/master/Images/turing.jpeg" width="900">
 
 
-<h3>The Turing Test</h3>
+<h4>The Turing Test</h4>
 
 In its more generalized form, the Turing Test simplifies to involve only two participants: a human evaluator and a machine. The evaluator communicates with the machine (and potentially another human as a control) through text-based communication, typically over a computer. If the evaluator cannot reliably tell the machine apart from the human based on the responses, the machine is said to have passed the Turing Test.
 
@@ -51,11 +51,11 @@ The term “artificial intelligence” was coined by John McCarthy in <b>1955</b
 Development of Lisp: John McCarthy developed the Lisp programming language in 1958, which became a fundamental tool for AI research due to its excellent support for symbolic reasoning and recursive functions23.
 
 
-<h5>you can see my Lisp tutorial
+<h4>you can see my Lisp tutorial
 <a href="https://github.com/joaopaulo-souza/Introduction-to-AI/tree/master/Lisp">
 here
 </a>
-</h5>
+</h4>
 
 <b>The General Problem Solver (GPS)</b>, a pioneering computer program was developed in <b>1957</b> by Herbert A. Simon, J.C. Shaw, and Allen Newell at the RAND Corporation1. It was designed to work as a universal problem-solving machine, capable of solving a wide range of problems that could be expressed in a formal way.
 

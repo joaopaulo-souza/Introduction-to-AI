@@ -22,6 +22,12 @@ The beginning of the history of AI remounts the Ancient Greek mythology. The con
 
 <img src="https://github.com/joaopaulo-souza/Introduction-to-AI/blob/master/Images/Talos.jpeg" width="900">
 
+
+Around 1500, Leonardo da Vinci, renowned for his genius in art and science, also made significant contributions to the concept of automata through his innovative designs. Among his creations were intricate mechanical devices such as a life-sized robotic knight capable of moving its arms, sitting, and even waving, showcasing Leonardo's advanced understanding of mechanical systems and robotics. He also envisioned a mechanical lion that could walk and roar, demonstrating his ability to blend artistry with engineering. Although these automata were never constructed during his lifetime, Leonardo’s detailed sketches and designs laid the groundwork for future developments in robotics and automation, reflecting his forward-thinking approach and profound influence on the field of mechanical engineering.
+
+<img src="https://github.com/joaopaulo-souza/Introduction-to-AI/blob/master/Images/davinci-robot.jpeg" width="900">
+
+
 <p>
 The Turing Test was introduced by Alan Turing in <b>1950</b> in his seminal paper "Computing Machinery and Intelligence"1. This test was designed to determine whether a machine could exhibit intelligent behavior indistinguishable from that of a human.
 </p>

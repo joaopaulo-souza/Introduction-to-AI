@@ -57,31 +57,28 @@ here
 </a>
 </h4>
 
-<b>The General Problem Solver (GPS)</b>, a pioneering computer program was developed in <b>1957</b> by Herbert A. Simon, J.C. Shaw, and Allen Newell at the RAND Corporation1. It was designed to work as a universal problem-solving machine, capable of solving a wide range of problems that could be expressed in a formal way.
+<img src="https://github.com/joaopaulo-souza/Introduction-to-AI/blob/master/Images/GPS.jpeg" width="900">
+
+<h4>The General Problem Solver (GPS)</h4> 
+
+A pioneering computer program was developed in <b>1957</b> by Herbert A. Simon, J.C. Shaw, and Allen Newell at the RAND Corporation1. It was designed to work as a universal problem-solving machine, capable of solving a wide range of problems that could be expressed in a formal way.
 
 <b>Key Features of GPS:</b>
-<p>
-Means-Ends Analysis: GPS uses a strategy called means-ends analysis, which involves breaking down a problem into smaller subgoals and solving each subgoal to move closer to the overall goal12.
-</p>
 
-<p>
+Means-Ends Analysis: GPS uses a strategy called means-ends analysis, which involves breaking down a problem into smaller subgoals and solving each subgoal to move closer to the overall goal12.
+
 Problem Space: It defines the problem space in terms of the goal to be achieved and the transformation rules that can be applied to reach that goal2.
 Heuristics: GPS generates heuristics, or rules of thumb, to guide the problem-solving process1.
-</p>
 
-<p>
 Separation of Knowledge and Strategy: One of its innovative aspects was separating the knowledge of the problem (rules) from the strategy of how to solve it (solver engine)1.
-</p>
+
 
 
 <h4>Applications and Limitations:</h4>
-<p>
 Applications: GPS was able to solve well-defined problems such as the Towers of Hanoi, proving theorems in logic or geometry, and word puzzles12.
-</p>
 
-<p>
 Limitations: Despite its innovative approach, GPS struggled with real-world problems due to the combinatorial explosion, where the number of possible solutions became computationally infeasible1.
-</p>
+
 
 <b>1960s</b>: Research labs were established at universities such as MIT, Stanford, and Carnegie Mellon.
 

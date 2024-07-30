@@ -9,6 +9,11 @@
 <p>
 The aim of this article is to tell a little of the history of AI, and it's main concepts
 </p>
+<h2>What is an AI </h2>
+
+<p>
+An Artificial Intelligence (AI) refers to a type of system or machine created to handle tasks that usually demand human-level intelligence. Such tasks might involve acquiring knowledge, making logical deductions, solving problems, comprehending natural language, identifying patterns, and making decisions. AI systems accomplish these functions by using algorithms and models that analyze and interpret data, enabling them to learn from experiences, adjust to new information, and carry out intricate operations.
+</p>
 
 <div class="container">
 

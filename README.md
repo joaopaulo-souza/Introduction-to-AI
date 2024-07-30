@@ -92,4 +92,8 @@ Limitations: Despite its innovative approach, GPS struggled with real-world prob
 
 The first AI winter, <b>spanning the 1970s</b>, was characterized by a significant downturn in the enthusiasm and funding for artificial intelligence research. During this period, early AI systems, which had generated considerable excitement and investment, failed to meet the high expectations set by their proponents. The overpromising of capabilities and the technical limitations of early AI approaches led to a growing skepticism. This skepticism was further fueled by critical assessments, such as the Lighthill Report in 1973, which highlighted the lack of practical results from AI research. As a result, many governments and funding agencies reduced their support, leading to a slowdown in AI research and development.
 
+<img src="https://github.com/joaopaulo-souza/Introduction-to-AI/blob/master/Images/Backpropagation.jpeg" width="900">
+
+<h4>Backpropagation </h4>
+In <b>1986</b>, Geoffrey Hinton and his colleagues published groundbreaking papers on backpropagation, a key algorithm for training neural networks that dramatically revived interest in the field of artificial intelligence. Backpropagation, which efficiently adjusts the weights of neural network connections based on the error of predictions, provided a practical and scalable method for training multi-layered networks. This development addressed many of the limitations faced by earlier neural network models, rekindling enthusiasm and paving the way for significant advancements in machine learning.
 </body>

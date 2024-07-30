@@ -36,11 +36,22 @@ The term “artificial intelligence” was coined by John McCarthy in <b>1955</b
 Development of Lisp: John McCarthy developed the Lisp programming language in 1958, which became a fundamental tool for AI research due to its excellent support for symbolic reasoning and recursive functions23.
 </p>
 
-<h3>you can see my Lisp tutorial
+<h5>you can see my Lisp tutorial
 <a href="https://github.com/joaopaulo-souza/Introduction-to-AI/tree/master/Lisp">
 here
 </a>
-</h3>
+</h5>
+
+The General Problem Solver (GPS), a pioneering computer program was developed in <b>1957</b> by Herbert A. Simon, J.C. Shaw, and Allen Newell at the RAND Corporation1. It was designed to work as a universal problem-solving machine, capable of solving a wide range of problems that could be expressed in a formal way.
+
+<b>Key Features of GPS:</b>
+Means-Ends Analysis: GPS uses a strategy called means-ends analysis, which involves breaking down a problem into smaller subgoals and solving each subgoal to move closer to the overall goal12.
+Problem Space: It defines the problem space in terms of the goal to be achieved and the transformation rules that can be applied to reach that goal2.
+Heuristics: GPS generates heuristics, or rules of thumb, to guide the problem-solving process1.
+Separation of Knowledge and Strategy: One of its innovative aspects was separating the knowledge of the problem (rules) from the strategy of how to solve it (solver engine)1.
+Applications and Limitations:
+Applications: GPS was able to solve well-defined problems such as the Towers of Hanoi, proving theorems in logic or geometry, and word puzzles12.
+Limitations: Despite its innovative approach, GPS struggled with real-world problems due to the combinatorial explosion, where the number of possible solutions became computationally infeasible1.
 
 <b>1960s</b>: Research labs were established at universities such as MIT, Stanford, and Carnegie Mellon.
 

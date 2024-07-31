@@ -4,4 +4,4 @@ Welcome to the my **Lisp Programming Tutorial**! This guide is designed to help 
 
 The tutorial is self explanatory and easy-to-use
 
-You can start learning Lisp just by reading lisp-tutorial.txt or lisp-tutorial.lisp file. 
+You can start learning Lisp just by clicking <a href="https://github.com/joaopaulo-souza/Introduction-to-AI/blob/master/Lisp/lisp-tutorial.txt">lisp-tutorial.txt</a> or <a href="https://github.com/joaopaulo-souza/Introduction-to-AI/blob/master/Lisp/lisp-tutorial.lisp">lisp-tutorial.lisp</a> file. 

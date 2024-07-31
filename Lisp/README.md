@@ -4,4 +4,4 @@ Welcome to the my **Lisp Programming Tutorial**! This guide is designed to help 
 
 The tutorial is self explanatory and easy-to-use
 
-You can start learning Lisp just by reading lisp-tutorial file. 
+You can start learning Lisp just by reading lisp-tutorial.txt or lisp-tutorial.lisp file. 

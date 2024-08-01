@@ -104,14 +104,16 @@
 
 (terpri)
 (print "Let's create a function to calculate de area of a circle, given its radius")
-(defmacro circle-area ; Name of the function
+(defun circle-area ; Name of the function
 (radius); Parameters 
 (* 3.14159 (* radius radius)) ; What will be done with the parameters 
 
 ); End of the function
 (terpri)
-(setq r 4); set the size of radius 
-(setq a (circle-area )); application of the function.
+(setq ra 4); set the size of radius
+(write ra)
+(circle-area ra)
+(setq a (circle-area ra)); application of the function.
 (format t "the area of a circle of radius 4 = ~a" a ) ; Example of use 
 
 ;=========================

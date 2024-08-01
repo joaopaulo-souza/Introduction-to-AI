@@ -1,3 +1,5 @@
+<img src="https://github.com/joaopaulo-souza/Introduction-to-AI/blob/master/Images/egg-robot.jpeg" width="900">
+
 <h1>Basic Concepts of AI</h1>
 
 

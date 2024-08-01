@@ -1,6 +1,7 @@
 <img src="https://github.com/joaopaulo-souza/Introduction-to-AI/blob/master/Images/egg-robot.jpeg" width="900">
 
 <h1>Basic Concepts of AI</h1>
+This article's goal is to present some of the most important concepts about AI
 
 <h2>Fields of Knowledge</h2>
 

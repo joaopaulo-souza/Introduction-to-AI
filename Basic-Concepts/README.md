@@ -14,6 +14,18 @@ Machine learning is a subfield of artificial intelligence and data science. It f
 <h2>Deep Learning</h2>
 Deep learning is a subfield of machine learning that aims to build models using various types of neural networks. These neural networks are designed to automatically learn and represent complex patterns in data, enabling advanced tasks such as image recognition, natural language processing, and more. Deep learning has been instrumental in achieving breakthroughs in AI by leveraging large datasets and computational power.
 
+<h2>Supervised Learning</h2>
+In supervised learning, the model is trained on a labeled dataset, meaning each training example is paired with an output label. The goal is for the model to learn a mapping from inputs to outputs so it can predict the output for new, unseen inputs.Example: Training a model to classify emails as spam or not spam based on a labeled dataset of emails. Algorithms: Linear regression, logistic regression, support vector machines, neural networks.
+
+<h2>Unsupervised Learning</h2>
+In unsupervised learning, the model is trained on an unlabeled dataset, meaning there are no predefined labels or outputs. The goal is for the model to find hidden patterns or intrinsic structures in the input data. Example: Grouping customers into different segments based on purchasing behavior without predefined categories. Algorithms: K-means clustering, hierarchical clustering, principal component analysis (PCA), t-SNE.
+
+<h2>Semi-Supervised Learning</h2>
+Semi-supervised learning is a middle ground between supervised and unsupervised learning. It uses a small amount of labeled data along with a large amount of unlabeled data. The goal is to improve the learning accuracy by leveraging the unlabeled data, which can provide additional context and structure. Example: Training a text classifier with a few labeled documents and many unlabeled documents to improve classification accuracy. Algorithms: Semi-supervised support vector machines, co-training, graph-based methods.
+
+<h2>Reinforcement Learning</h2>
+Reinforcement learning (RL) is a type of machine learning where an agent learns to make decisions by interacting with an environment. The agent takes actions to maximize cumulative rewards over time. Unlike supervised and unsupervised learning, reinforcement learning involves learning from the consequences of actions rather than from a fixed dataset.
+
 <h2>Bias</h2>
 It's a characteristic of a simple model in face of the complexity of a real world problem. For instance: approximating a non-linear problem by a linear one, introduces an error. This error is the bias.   
 High Bias: Leads to underfitting, where the model is too simple to capture the underlying patterns in the data.

@@ -17,6 +17,18 @@ Machine learning is a subfield of artificial intelligence and data science. It f
 <h3>Deep Learning</h3>
 Deep learning is a subfield of machine learning that aims to build models using various types of neural networks. These neural networks are designed to automatically learn and represent complex patterns in data, enabling advanced tasks such as image recognition, natural language processing, and more. Deep learning has been instrumental in achieving breakthroughs in AI by leveraging large datasets and computational power.
 
+<h2>Types of AI</h2>
+<h3>Weak AI</h3>
+Weak AI refers to systems designed to perform a narrow, specific set of tasks. These AI systems are specialized and can only function within the boundaries of the tasks they were programmed or trained to do.
+
+<h3>Strong AI or Artificial General Intelligence (AGI)</h3>
+Strong AI refers to a type of AI that possesses general cognitive abilities comparable to human intelligence. A Strong AI system would be able to understand, learn, and apply knowledge across a wide range of tasks, much like a human can.
+
+Theoretical at this stage—no real-world example exists.Imagined as an AI that could perform any intellectual task a human can do, with an understanding and consciousness similar to that of a human.
+
+
+
+
 <h2>Types of Learning</h2>
 
 <h3>Supervised Learning</h3>

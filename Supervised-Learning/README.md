@@ -1,8 +1,10 @@
 <h1>Main Supervised Algorithms</h1>
 
-<h2>Naive Bayes Classifier Algorithm</h2> 
+<h2>Naive Bayes Classifier Algorithm</h2>
 
-<img src="https://latex.codecogs.com/svg.image?1+sin^2(x)"  width="400"/>
+The foundation of the Naive Bayes classifier is Bayes' Theorem, which can be mathematically expressed as:
+
+<img src="https://latex.codecogs.com/svg.image?P(C_k \mid X) = \frac{P(X \mid C_k) \cdot P(C_k)}{P(X)}"  width="400"/>
 
 
 

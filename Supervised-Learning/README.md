@@ -51,15 +51,15 @@ Given a dataset with **n** features, X = {x₁, x₂, ..., xₙ}, and a target v
 
    Ĉ = argmax₍C_k₎ P(C_k | X)
 
-========================================
+----------------------------------------
         SUPPORT VECTOR MACHINE (SVM)
-========================================
+----------------------------------------
 
 Support Vector Machine (SVM) is a powerful supervised machine learning algorithm used primarily for classification tasks, although it can also be used for regression. The main goal of the SVM algorithm is to find the optimal hyperplane that best separates the data into different classes.
 
-----------------------------------------
+
         SVM ALGORITHM CONCEPTS
-----------------------------------------
+
 
 1. **Hyperplane:**
    - In n-dimensional space, a hyperplane is a flat affine subspace of dimension (n-1). For example, in 2D space, the hyperplane is a line, and in 3D space, it is a plane.
@@ -85,9 +85,9 @@ Support Vector Machine (SVM) is a powerful supervised machine learning algorithm
      - **Radial Basis Function (RBF) Kernel:** Also known as the Gaussian kernel, it maps data into an infinite-dimensional space and is effective for non-linear data.
      - **Sigmoid Kernel:** Mimics the behavior of neural networks.
 
-----------------------------------------
+
         SVM ALGORITHM STEPS
-----------------------------------------
+
 
 1. **Data Preparation:**
    - Collect and preprocess the data. This includes handling missing values, encoding categorical variables, and normalizing/standardizing the data.

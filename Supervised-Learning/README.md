@@ -1,8 +1,12 @@
 <h1>Main Supervised Algorithms</h1>
 
-<h2>Naive Bayes Classifier Algorithm</h2>
+----------------------------------------
+      NAIVE BAYES CLASSIFIER ALGORITHM
+----------------------------------------
 
 The foundation of the Naive Bayes classifier is Bayes' Theorem, which can be mathematically expressed as:
+
+P(C_k | X) = [P(X | C_k) * P(C_k)] / P(X)
 
 Where:
 - **P(C_k | X)**: Posterior probability of class C_k given the feature vector X.
@@ -10,9 +14,6 @@ Where:
 - **P(C_k)**: Prior probability of class C_k.
 - **P(X)**: Evidence or the total probability of the feature vector X across all classes.
 
-----------------------------------------
-      NAIVE BAYES CLASSIFIER ALGORITHM
-----------------------------------------
 
 Given a dataset with **n** features, X = {x₁, x₂, ..., xₙ}, and a target variable with **m** classes, C = {C₁, C₂, ..., Cₘ}, the Naive Bayes algorithm operates as follows:
 

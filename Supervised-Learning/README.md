@@ -2,7 +2,7 @@
 
 <h2>Naive Bayes Classifier Algorithm</h2> 
 
-<img src="https://latex.codecogs.com/svg.image?1+sin^2(x)" />
+<img src="https://latex.codecogs.com/svg.image?1+sin^2(x)"  width="900"/>
 
 
 

@@ -41,7 +41,7 @@ Given a dataset with **n** features, X = {x₁, x₂, ..., xₙ}, and a target v
 
    Using the assumption of feature independence:
 
-   P(C_k | X) ∝ P(C_k) * Π (from i=1 to n) P(x_i | C_k)
+   P(C_k | X) = P(C_k) * Π (from i=1 to n) P(x_i | C_k)
 
    This means you multiply the prior probability by the product of the likelihoods of each feature.
 
@@ -50,3 +50,56 @@ Given a dataset with **n** features, X = {x₁, x₂, ..., xₙ}, and a target v
    Assign the class label C_k that has the highest posterior probability.
 
    Ĉ = argmax₍C_k₎ P(C_k | X)
+
+========================================
+        SUPPORT VECTOR MACHINE (SVM)
+========================================
+
+Support Vector Machine (SVM) is a powerful supervised machine learning algorithm used primarily for classification tasks, although it can also be used for regression. The main goal of the SVM algorithm is to find the optimal hyperplane that best separates the data into different classes.
+
+----------------------------------------
+        SVM ALGORITHM CONCEPTS
+----------------------------------------
+
+1. **Hyperplane:**
+   - In n-dimensional space, a hyperplane is a flat affine subspace of dimension (n-1). For example, in 2D space, the hyperplane is a line, and in 3D space, it is a plane.
+   - The hyperplane is chosen such that it maximizes the margin between the two classes.
+
+2. **Margin:**
+   - The margin is the distance between the hyperplane and the nearest data points from each class. These nearest points are known as support vectors.
+   - SVM aims to maximize this margin to ensure that the model can generalize well to unseen data.
+
+3. **Support Vectors:**
+   - Support vectors are the data points that are closest to the hyperplane and influence its position and orientation.
+   - Only the support vectors are needed to define the hyperplane; the other data points are irrelevant.
+
+4. **Linear vs. Non-Linear SVM:**
+   - **Linear SVM:** Used when the data is linearly separable, meaning a straight line (in 2D) or a flat plane (in 3D) can separate the classes.
+   - **Non-Linear SVM:** Used when the data is not linearly separable. SVM uses the kernel trick to transform the data into a higher-dimensional space where it becomes linearly separable.
+
+5. **Kernel Trick:**
+   - The kernel trick is a mathematical function that transforms the original input space into a higher-dimensional space, making it possible to find a hyperplane that separates the data.
+   - Commonly used kernels include:
+     - **Linear Kernel:** Suitable for linearly separable data.
+     - **Polynomial Kernel:** Maps the data into a higher-degree polynomial space.
+     - **Radial Basis Function (RBF) Kernel:** Also known as the Gaussian kernel, it maps data into an infinite-dimensional space and is effective for non-linear data.
+     - **Sigmoid Kernel:** Mimics the behavior of neural networks.
+
+----------------------------------------
+        SVM ALGORITHM STEPS
+----------------------------------------
+
+1. **Data Preparation:**
+   - Collect and preprocess the data. This includes handling missing values, encoding categorical variables, and normalizing/standardizing the data.
+
+2. **Choose the Kernel Function:**
+   - Select an appropriate kernel function based on whether the data is linearly separable or not. For linearly separable data, use a linear kernel; for non-linear data, consider using RBF, polynomial, or sigmoid kernels.
+
+3. **Train the SVM Model:**
+   - Use the training data to fit the SVM model. The algorithm will find the optimal hyperplane that separates the classes by maximizing the margin.
+
+4. **Predict:**
+   - Use the trained model to make predictions on new, unseen data by determining which side of the hyperplane the data points fall on.
+
+5. **Evaluate the Model:**
+   - Assess the performance of the SVM model using metrics such as accuracy, precision, recall, and F1 score. Cross-validation can be used to ensure the model generalizes well to unseen data.

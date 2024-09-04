@@ -4,7 +4,7 @@
 
 The foundation of the Naive Bayes classifier is Bayes' Theorem, which can be mathematically expressed as:
 
-<img src="https://latex.codecogs.com/svg.image?P(c_x)"  width="200"/>
+<img src="https://latex.codecogs.com/svg.image?P(C_k| X)"  width="200"/>
 
 
 

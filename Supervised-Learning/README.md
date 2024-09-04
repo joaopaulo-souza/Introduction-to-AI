@@ -86,7 +86,7 @@ Support Vector Machine (SVM) is a powerful supervised machine learning algorithm
      - **Sigmoid Kernel:** Mimics the behavior of neural networks.
 
 
-        SVM ALGORITHM STEPS
+SVM ALGORITHM STEPS
 
 
 1. **Data Preparation:**

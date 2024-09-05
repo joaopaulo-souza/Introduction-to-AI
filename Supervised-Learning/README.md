@@ -103,3 +103,37 @@ SVM ALGORITHM STEPS
 
 5. **Evaluate the Model:**
    - Assess the performance of the SVM model using metrics such as accuracy, precision, recall, and F1 score. Cross-validation can be used to ensure the model generalizes well to unseen data.
+
+C (Regularization Parameter)
+Purpose: Controls the trade-off between achieving a low training error and a low testing error, which is a form of regularization.
+Effect:
+   - Large C: The SVM will try to classify all training examples correctly, leading to a smaller margin. This might lead to overfitting if the data is noisy.
+   - Small C: The SVM will allow some misclassifications but will aim for a larger margin, potentially improving generalization to new data.
+
+---------------------------------------
+	K-Nearest Neighbors (K-NN)
+---------------------------------------
+K-Nearest Neighbors (K-NN) is a simple, non-parametric, and lazy learning algorithm used for both classification and regression tasks. It operates based on the principle that similar instances exist in close proximity within a feature space. K-NN uses the proximity of data points to make predictions by looking at the 'K' closest examples to the query point.
+
+Steps of the K-NN Algorithm:
+
+1. Choose the Number of Neighbors (K):
+   - Select a positive integer K, which specifies the number of nearest neighbors to consider when making predictions.
+   
+2. Calculate the Distance:
+   - For a new data point (query point), the algorithm calculates the distance between the query point and all points in the training dataset.
+   - The most common distance metric used is Euclidean distance, but others like Manhattan or Minkowski distance can also be used.
+
+   Euclidean distance between two points A (x1, y1) and B (x2, y2):
+   
+   Distance = sqrt((x2 - x1)^2 + (y2 - y1)^2)
+   
+3. Identify the Neighbors:
+   - Based on the distance calculated in step 2, the K closest data points (neighbors) to the query point are identified.
+
+4. Predict the Output:
+   - For classification: The algorithm uses a majority voting scheme among the K neighbors. The most common class among the neighbors is assigned to the query point.
+   - For regression: The output is typically the mean or median value of the K nearest neighbors.
+
+5. Repeat:
+   - This process is repeated for each new query point.

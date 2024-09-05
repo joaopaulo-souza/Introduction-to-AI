@@ -16,7 +16,7 @@ In short, Bagging focuses on reducing overfitting by averaging independent model
 
 A decision tree is a supervised machine learning algorithm used for both classification and regression tasks. It works by splitting the data into subsets based on feature values, creating a tree-like structure of decisions. Each node in the tree represents a feature or attribute, and each branch represents a decision or rule that splits the data based on that feature. The leaf nodes of the tree correspond to the final output, either a class label (for classification tasks) or a continuous value (for regression tasks). Decision trees are popular because they are easy to understand, interpret, and visualize, although they can sometimes overfit the data if not properly pruned.
 
-
+A Random Forest is an ensemble learning method that builds multiple decision trees and combines their outputs to improve the model’s accuracy and reduce overfitting. Each tree in the forest is trained on a random subset of the data, with a random selection of features used for each split, ensuring diversity among the trees. During prediction, the random forest takes the output of each individual tree, and for classification tasks, it uses majority voting to determine the final class, while for regression, it averages the outputs of all trees. Random forests are robust, handle large datasets well, and are less prone to overfitting compared to single decision trees.
 
 
 

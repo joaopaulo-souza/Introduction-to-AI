@@ -18,6 +18,8 @@ A decision tree is a supervised machine learning algorithm used for both classif
 
 A Random Forest is an ensemble learning method that builds multiple decision trees and combines their outputs to improve the model’s accuracy and reduce overfitting. Each tree in the forest is trained on a random subset of the data, with a random selection of features used for each split, ensuring diversity among the trees. During prediction, the random forest takes the output of each individual tree, and for classification tasks, it uses majority voting to determine the final class, while for regression, it averages the outputs of all trees. Random forests are robust, handle large datasets well, and are less prone to overfitting compared to single decision trees.
 
+AdaBoost (Adaptive Boosting) is an ensemble learning algorithm that combines multiple weak classifiers, typically decision trees with only a few splits (called “stumps”), to create a stronger classifier. It works iteratively, with each subsequent model focusing more on the instances that the previous models misclassified. During each iteration, AdaBoost assigns higher weights to misclassified samples, making the model pay more attention to these difficult cases. The final prediction is made by taking a weighted majority vote (or weighted sum for regression) of all classifiers’ outputs.
 
+AdaBoost is effective in reducing bias and variance, and it is particularly known for improving weak models. However, it can be sensitive to noisy data and outliers, as it focuses heavily on hard-to-classify points.
 
 

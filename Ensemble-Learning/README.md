@@ -14,6 +14,8 @@ Boosting:
 
 In short, Bagging focuses on reducing overfitting by averaging independent models, while Boosting builds models sequentially to minimize bias and focus on difficult instances.
 
+A decision tree is a supervised machine learning algorithm used for both classification and regression tasks. It works by splitting the data into subsets based on feature values, creating a tree-like structure of decisions. Each node in the tree represents a feature or attribute, and each branch represents a decision or rule that splits the data based on that feature. The leaf nodes of the tree correspond to the final output, either a class label (for classification tasks) or a continuous value (for regression tasks). Decision trees are popular because they are easy to understand, interpret, and visualize, although they can sometimes overfit the data if not properly pruned.
+
 
 
 

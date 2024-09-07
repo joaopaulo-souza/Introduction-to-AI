@@ -26,7 +26,7 @@ One-Point Crossover: A single crossover point is selected randomly along the chr
 
 Two-Point Crossover: Two crossover points are selected randomly. The segments between these two points are exchanged between the parents to produce offspring. This method ensures more mixing of genetic material.
 
-Uniform Crossover: Each gene is swapped between parents with a certain probability. This means each gene has a fixed chance of coming from either parent, regardless of its position.
+Uniform Crossover: Each gene will be selected from a parent with a certain probability. This means each gene has a fixed chance of coming from some parent, regardless of its position.
 
 Example: If Parent 1 has the chromosome 101010 and Parent 2 has 010101, using one-point crossover at position 3 might produce offspring like 101101 and 010010.
 
